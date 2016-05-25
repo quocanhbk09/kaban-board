@@ -1,0 +1,31 @@
+{
+  "name": "kaban-board",
+  "version": "1.0.0",
+  "description": "This project for learning ReactJs follow the practice in Pro React book",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/webpack-dev-server --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://quocanhbk09@github.com/quocanhbk09/kaban-board.git"
+  },
+  "author": "Anh Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quocanhbk09/kaban-board/issues"
+  },
+  "homepage": "https://github.com/quocanhbk09/kaban-board#readme",
+  "dependencies": {
+    "react": "^15.1.*",
+    "react-dom": "^15.1.*"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.*",
+    "babel-loader": "^6.2.*",
+    "babel-preset-es2015": "^6.9.*",
+    "babel-preset-react": "^6.5.*",
+    "webpack": "^1.13.*",
+    "webpack-dev-server": "^1.14.*"
+  }
+}
